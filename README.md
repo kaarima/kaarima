@@ -5,7 +5,7 @@ Engineering student at INSAT working on autonomous robotics, ROS2-based systems,
 
 Interested in intelligent robotic systems, robot learning, human-robot interaction, and real-world autonomy under constrained environments.
 
-🚀 Building robotics systems from perception to control.
+ Building robotics systems from perception to control.
 ```
 
 
