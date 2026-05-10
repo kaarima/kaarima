@@ -1,8 +1,13 @@
-👋 Hi, I’m @kaarima
-👀 I have a strong interest in  machine learning, robotics, and software development, with a passion for solving complex problems and developing innovative solutions.
-📫 How to reach me: Feel free to send me a message here on GitHub!
-😄 Pronouns: SHE/HER
-⚡ Fun fact: I'm secretly training to become a ninja warrior! 🥋
+```md
+👋 Hi, I’m Karima (@kaarima)
+
+Engineering student at INSAT working on autonomous robotics, ROS2-based systems, reinforcement learning, computer vision, and embedded AI.
+
+Interested in intelligent robotic systems, robot learning, human-robot interaction, and real-world autonomy under constrained environments.
+
+🚀 Building robotics systems from perception to control.
+```
+
 
 
 <!---
